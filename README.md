@@ -1,4 +1,4 @@
-# 🐾 Pet Counter API
+# 🐾 Pet Counter API (Commission)
 
 A simple **Node.js + Express** API for tracking and managing pet quantities using **MongoDB**.
 It provides endpoints to increase, decrease, and fetch the quantity of a specific pet ID.
